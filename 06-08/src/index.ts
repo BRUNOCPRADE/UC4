@@ -69,7 +69,9 @@ const sociedade = ['Frodo', 'Sam', 'Gandalf', 'Legolas', 'Gimli', 'Merry', 'Pipp
 const hobbit = ['Frodo', 'Sam', 'Merry', 'Pippin']
 
 for (let i = 0; i < sociedade.length;  i++) {
-    if(hobbit.includes(sociedade[i])){
-        console.log("Hobbit encontrado:" + sociedade[i])
+    if (sociedade[i] === 'Frodo'
+        || sociedade[i] === 'Sam'
+        || sociedade[i] ==
+    )
     }
-}
+}fg
